@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://seigide.github.io/sitemap/sitemap.txt
